@@ -254,6 +254,7 @@ h1, h2, h3, h4, h5, h6, p, ul {
 }
 
 .our-team-list-item .our-team-title {
+   text-align: center;
    padding: 30px;
 }
 
@@ -328,11 +329,11 @@ h1, h2, h3, h4, h5, h6, p, ul {
    text-decoration: none;
 }
 
-.our-portfolio-list-item .title {
+.our-portfolio-list-item .our-portfolio-title {
    padding: 20px 24px;
 }
 
-.our-team-list-item .title h3 {
+.our-portfolio-list-item .our-portfolio-title h2 {
    margin-bottom: 4px;
 }
 
